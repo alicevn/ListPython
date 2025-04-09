@@ -1,3 +1,4 @@
+#adicionando comentário para testar commits
 equipamentos = []
 valores = []
 seriais = []
